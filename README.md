@@ -1,6 +1,7 @@
+## Daniel Han's coding test
+
 ## System Requirements
 
-The coding challenge requires the following to be installed on your development machine;
 * [nodejs](https://nodejs.org/en/download/) version 10 or above.
 * A [git](https://git-scm.com/downloads) client.
 
