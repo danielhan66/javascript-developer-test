@@ -2,7 +2,6 @@ const { httpGet } = require('./mock-http-interface');
 
 const getMessage = async (url) => {
   const response = await httpGet(url);
-
   const message = JSON.parse(response.body).message;
 
   if(response.status === 200){
